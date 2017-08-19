@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<sprache>
+	<ip>IP: </ip>
+	<os>Operating System: </os>
+    <sstart>Server started!</sstart>
+	<fail>Error!</fail>
+	<srunning>Server is already running!</srunning>
+	<sstop>Server stopped!</sstop>
+	<soff>Server is off!</soff>
+	<restart>Server has been restarted!</restart>
+	<sshutdown>Server has been down!</sshutdown>
+	<changepw>The Root Password has been successfully changed!</changepw>
+	<nopw>No Root Password has been entered!</nopw>
+	<pwgen>A new Root Password was generated for you: </pwgen>
+	<pw>The Root Password is: </pw>
+	<hn>Hostname: </hn>
+	<changehn>The Hostname was successfully changed!</changehn>
+	<hnl>The new Hostname is: </hnl>
+	<hnf>invalid Hostname!</hnf>
+	<changehnf>The Hostname could not be changed because they did not enter anything!</changehnf>
+	<changedi>Server is installed with selected Operating System!</changedi>
+	<serverfunc>Server Functions:</serverfunc>
+	<newrp>New Root Password:</newrp>
+	<setrp>Set new Root Password</setrp>
+	<newhn>New Hostname:</newhn>
+	<sethn>Set new Hostname</sethn>
+	<serverre>Reinstall Server:</serverre>
+	<chodi>Select Operating System:</chodi>
+	<setrpdi>Set the Root Password:</setrpdi>
+	<rp>Root Password</rp>
+	<startbt>Start</startbt>
+	<stopbt>Stop</stopbt>
+	<restartbt>Restart</restartbt>
+	<shutdownbt>Shutdown</shutdownbt>
+	<changebt>Change</changebt>
+	<installbt>Install</installbt>
+	<cpu>CPU</cpu>
+	<ram>RAM</ram>
+	<disk>Disk</disk>
+	<bw>Bandwidth</bw>
+	<ac>Activ</ac>
+	<free>Free</free>
+	<vnc>VNC Functions: </vnc>
+    <changepwvnc>The VNC password has been successfully changed!</changepwvnc>
+    <pwvnc>Das Root Password is: </pwvnc>
+	<nopwvnc>No VNC Password has been entered!</nopwvnc>
+	<pwgenvnc>A new VNC password was generated for you: </pwgenvnc>
+    <setvnc>Set VNC Password:</setvnc>
+	<vncp>VNC Password</vncp>
+    <vncips>IP: </vncips>
+    <vncpos>Port: </vncpos>
+    <vncpws>Password: </vncpws>
+    <rescuefu>Rescue System: </rescuefu>
+    <rescueset>Set Rescue Password: </rescueset>
+    <rescuepw>Rescue Password</rescuepw>
+    <changepwres>The Rescue Mode has been successfully Activated!</changepwres>
+    <rescuedis>Rescue Mode has been successfully Disabled!</rescuedis>
+    <pwres>Das Rescue Password is: </pwres>
+	<nopwres>No Rescue Password entered!</nopwres>
+	<pwgenres>A new Rescue Password has been generated for you: </pwgenres>
+</sprache>

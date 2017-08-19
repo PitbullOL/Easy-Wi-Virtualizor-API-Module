@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<sprache>
+	<ip>IP: </ip>
+	<os>Betriebssystem: </os>
+        <sstart>Server wurde gestartet!</sstart>
+	<fail>Fehler!</fail>
+	<srunning>Server läuft bereits!</srunning>
+	<sstop>Server wurde gestoppt!</sstop>
+	<soff>Server ist aus!</soff>
+	<restart>Server wurde neu gestartet!</restart>
+	<sshutdown>Server wurde heruntergefahren!</sshutdown>
+	<changepw>Das Root Passwort wurde erfolgreich geändert!</changepw>
+	<nopw>Es wurde kein Root Passwort eingetragen!</nopw>
+	<pwgen>Für sie wurde ein neues Root Passwort generiert dieses lautet: </pwgen>
+	<pw>Das Root Passwort lautet: </pw>
+	<hn>Hostname: </hn>
+	<changehn>Der Hostname wurde erfolgreich geändert!</changehn>
+	<hnl>Der neue Hostname lautet: </hnl>
+	<hnf>ungültiger Hostname!</hnf>
+	<changehnf>Der Hostname konnte nicht geändert werden da sie nichts eingetragen haben!</changehnf>
+	<changedi>Server wird mit ausgewählter Distrubition Installiert!</changedi>
+	<serverfunc>Server Funktionen:</serverfunc>
+	<newrp>Neues Root Passwort:</newrp>
+	<setrp>Setze neues Root Passwort</setrp>
+	<newhn>Neuer Hostname:</newhn>
+	<sethn>Setze neuen Hostname</sethn>
+	<serverre>Server neu Installieren:</serverre>
+	<chodi>Wähle Betriebssystem:</chodi>
+	<setrpdi>Setze Root Passwort:</setrpdi>
+	<rp>Root Passwort</rp>
+	<startbt>Start</startbt>
+	<stopbt>Stop</stopbt>
+	<restartbt>Neustarten</restartbt>
+	<shutdownbt>Herunterfahren</shutdownbt>
+	<changebt>Ändern</changebt>
+	<installbt>Installieren</installbt>
+	<cpu>Prozessor</cpu>
+	<ram>Arbeitsspeicher</ram>
+	<disk>Festplatte</disk>
+	<bw>Bandbreite</bw>
+	<ac>Aktiv</ac>
+	<free>Frei</free>
+        <vnc>VNC Funktionen: </vnc>
+        <changepwvnc>Das VNC Passwort wurde erfolgreich geändert!</changepwvnc>
+        <pwvnc>Das Root Passwort lautet: </pwvnc>
+	<nopwvnc>Es wurde kein VNC Passwort eingetragen!</nopwvnc>
+	<pwgenvnc>Für sie wurde ein neues VNC Passwort generiert dieses lautet: </pwgenvnc>
+        <setvnc>Setze VNC Passwort:</setvnc>
+	<vncp>VNC Passwort</vncp>
+        <vncips>IP: </vncips>
+        <vncpos>Port: </vncpos>
+        <vncpws>Passwort: </vncpws>
+        <rescuefu>Rettungssystem: </rescuefu>
+        <rescueset>Setze Rescue Passwort: </rescueset>
+        <rescuepw>Rescue Passwort</rescuepw>
+        <changepwres>Der Rescue Modus wurde erfolgreich Aktiviert!</changepwres>
+        <rescuedis>Der Rescue Modus wurde erfolgreich Deaktiviert!</rescuedis>
+        <pwres>Das Rescue Passwort lautet: </pwres>
+	<nopwres>Es wurde kein Rescue Passwort eingetragen!</nopwres>
+	<pwgenres>Für sie wurde ein neues Rescue Passwort generiert dieses lautet: </pwgenres>
+</sprache>
